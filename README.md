@@ -25,27 +25,13 @@ Para alimentar o caderno temático no NotebookLM, foram selecionadas temas relev
 (TBA)
 
 1. 📖 **[Título da Fonte 1]**  
-   * **Tipo:** [Artigo Científico / Artigo Técnico / Documentação / PDF]  
-   * **Descrição:** [Breve resumo do conteúdo da fonte]  
-   * **Link/Acesso:** [Inserir Link para a fonte]
-
-2. 📖 **[Título da Fonte 2]**  
-   * **Tipo:** [Relatório / PDF / Post de Blog Técnico]  
-   * **Descrição:** [Breve resumo do conteúdo da fonte]  
-   * **Link/Acesso:** [Inserir Link para a fonte]
-
-3. 📖 **[Título da Fonte 3]**  
-   * **Tipo:** [Artigo / E-book / Documentação]  
-   * **Descrição:** [Breve resumo do conteúdo da fonte]  
-   * **Link/Acesso:** [Inserir Link para a fonte]
+   * **Tipo:** (TBA)  
+   * **Descrição:** (TBA)  
+   * **Link/Acesso:** (TBA)
 
 ---
 
 (TBA)
-
-## 🛠️ Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
-
-Esta seção registra a evolução das perguntas elaboradas ao NotebookLM, destacando os ajustes necessários para obter respostas mais precisas e fundamentadas.
 
 ### 🧪 Teste de Prompts e Evolução
 
@@ -63,4 +49,4 @@ Esta seção registra a evolução das perguntas elaboradas ao NotebookLM, desta
 ---
 
 ✍️ *Desenvolvido por Artur L.Ott*  
-🔗 https://www.linkedin.com/in/artur-locateli-ott-57bbb1a9/ | [[Seu GitHub](https://github.com)](https://github.com/ArturLOtt)
+🔗 https://www.linkedin.com/in/artur-locateli-ott-57bbb1a9/ | https://github.com/ArturLOtt
